@@ -46,7 +46,7 @@ The building extraction is done in two stages:
 ![polygonization diagram](images/polygonization.jpg)
 
 ### Were there any modeling improvements used for this release? 
-Our building extraction model for South America was tuned using only unsupervised training (no training labels), specifically style-transfer and self-training techniques that we have developed internally.
+There were no changes in the model training process over previous releases. 
 
 ### Evaluation set metrics
 The evaluation metrics are computed on the set of 2,500 building labels for Nigeria and 2,000 for Kenya.
