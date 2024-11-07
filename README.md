@@ -18,8 +18,8 @@ This data is licensed by Microsoft under the [Open Data Commons Open Database Li
 
 | Location | Building Count | Link | Size (Compressed) |
 | :---: | :---: | :---: | :---: |
-| Nigeria | 35,767,509 | [Nigeria.geojsonl.zip](https://minedbuildings.blob.core.windows.net/africa/nigeria.geojsonl.zip) | 2.3GB |
-| Kenya | 14,748,685 | [Kenya.geojsonl.zip](https://minedbuildings.blob.core.windows.net/africa/kenya.geojsonl.zip) | 984MB |
+| Nigeria | 35,767,509 | [Nigeria.geojsonl.zip](https://minedbuildings.z5.web.core.windows.net/legacy/africa/nigeria.geojsonl.zip) | 2.3GB |
+| Kenya | 14,748,685 | [Kenya.geojsonl.zip](https://minedbuildings.z5.web.core.windows.net/legacy/africa/kenya.geojsonl.zip) | 984MB |
 
 ### What is the GeoJSON format?
 GeoJSON is a format for encoding a variety of geographic data structures. 
